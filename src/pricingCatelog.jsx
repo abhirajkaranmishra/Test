@@ -15,7 +15,7 @@ const PricingCatalog = () => {
   ];
 
   return (
-    <div className="bg-white rounded-lg shadow p-4 sm:p-6 text-black relative">
+    <div className="bg-white rounded-lg shadow p-4 sm:p-6 text-black relative w-full">
       {/* Header */}
       <div className="flex flex-col sm:flex-row justify-between items-start sm:items-center mb-6 gap-3">
         <h3 className="text-lg sm:text-xl font-bold">Pricing Catalog</h3>
